@@ -1,4 +1,4 @@
-<img src="Img_1637.jpeg">
+<img src="IMG_1637.jpeg">
 - 👋 Hi, I’m Ivan Alexis Hernandez Ramirez
 - 👀 I’m interested in IA
 - 🌱 I’m currently learning el doctorado en educación
